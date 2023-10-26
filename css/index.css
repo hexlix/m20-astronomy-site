@@ -1,0 +1,51 @@
+.card {
+    margin: 3%;
+    padding-bottom: 2%;
+    height: 225px;
+    text-align: left;
+}
+
+.card-img-top {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 5%;
+}
+
+.card a {
+    background-color: black;
+}
+
+.jumbotron {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(../images/heroimage.jpg);
+    color: aliceblue;
+}
+
+.jumbotron a {
+    background-color: azure;
+    color: darkblue;
+}
+
+.footer-nav {
+    padding: 3%;
+    text-align: center;
+}
+
+.footer-nav a {
+    color: black;
+}
+
+.shop-item {
+    margin-top: 2%;
+    width: 200px;
+    height: 200px;
+}
+
+.shop {
+    text-align: center;
+    height: 500px;
+}
